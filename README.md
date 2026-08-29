@@ -27,14 +27,14 @@ Java-Task2-NumberGuessingGame/
 ## Screenshots
 
 ### Successful Game
-![Successful Game 1](Screenshots/successful-game-1.png)
+![Successful Game 1](Java-Task2-NumberGuessingGame/Screenshots/successful-game-1.png)
 
-![Successful Game 2](Screenshots/successful-game-2.png)
+![Successful Game 2](Java-Task2-NumberGuessingGame/Screenshots/successful-game-2.png)
 
 ### Game Over
-![Game Over 1](Screenshots/game-over-1.png)
+![Game Over 1](Java-Task2-NumberGuessingGame/Screenshots/game-over-1.png)
 
-![Game Over 2](Screenshots/game-over-2.png)
+![Game Over 2](Java-Task2-NumberGuessingGame/Screenshots/game-over-2.png)
 
 ## Internship
 OIBSIP - Oasis Infobyte Java Development Internship
